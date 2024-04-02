@@ -2,3 +2,4 @@
 	path = test
 	url = https://github.com/KevinMarolt/test.git
 	shallow = true
+	branch = foo
